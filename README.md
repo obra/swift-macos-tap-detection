@@ -21,7 +21,7 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/swift-macos-tap-detection.git", from: "1.0.0")
+    .package(url: "https://github.com/obra/swift-macos-tap-detection.git", from: "1.0.0")
 ]
 ```
 
